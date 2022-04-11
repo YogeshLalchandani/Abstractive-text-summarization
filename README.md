@@ -1,0 +1,2 @@
+# Abstractive-text-summarization
+In this model I have used the google pegasus-xsum model for abstractive text summarization. Abstractive summarization is the technique of generating a summary of a text from its main ideas, not by copying verbatim most salient sentences from text. The model google pegasus xsum is a Natural Language Processing (NLP) Model implemented in Transformer library, generally using the Python programming language for abstractive text summarization.  https://huggingface.co/google/pegasus-xsum
